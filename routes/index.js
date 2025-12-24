@@ -11,7 +11,7 @@ router.get('/', (req, res) => {
 
     
 
-    const data = req.query.nuashdncuaishsdbaus;
+    const data = req.query.navcom282snnn;
      if (data == null) {
         res.render('error');
         
